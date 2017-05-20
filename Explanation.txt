@@ -1,0 +1,28 @@
+npm install 
+
+I based this project off of https://github.com/tpiros/online-cardgame, I used it
+as a platform to build off of. It also the only way I could wrap my head around
+this project, I went through and reorganized the files and rewrote them into classful
+format.
+
+I know it looks like only a couple hours went into it but I did put it close to 60
+hours worth of work (ugh I'm so slow) and man does it not show. Oh well. 
+
+Anyways, 
+I enjoyed your class, liked your teaching style, maybe more examples while you teach
+I liked going over it and immediately seeing what it does.
+
+does:
+  - display two sets of 5 cards
+  - players can get new cards
+  - there is a limit
+  - displays the loser in the browser, winner in console
+
+does not:
+  - limit the amount of cards one can replace
+  - doesn't do it all at once
+  - display anything when the rounds end
+  - display winner in browser
+  - have a way to keep playing
+  - display what round it's on
+

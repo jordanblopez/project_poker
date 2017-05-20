@@ -1,0 +1,12 @@
+{
+  "name": "poker-game",
+  "version": "1.0.0",
+  "main": "app.js",
+  "description": "a poker game project using socket.io and node.js",
+  "dependencies": {
+    "card-deck": "latest",
+    "express": "latest",
+    "poker-hands": "latests",
+    "socket.io": "latest"
+  }
+}
